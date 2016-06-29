@@ -1,0 +1,37 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/francis_bongiovanni/gdi-node/public/" . "templates/")
+ ("/Users/francis_bongiovanni/gdi-node/" . "public/")
+ ("/Users/francis_bongiovanni/" . "gdi-node/")
+ ("/Users/" . "francis_bongiovanni/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/francis_bongiovanni/gdi-node/public/templates/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "index.html"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/francis_bongiovanni/gdi-node/controllers/" (22339 4794 0 0) "home.js" "api.js" "about.js" "../" "./")
+
+ ("/Users/francis_bongiovanni/gdi-node/" (22338 22636 0 0) "views/" "public/" "package.json" "node_modules/" "layout.pug" "data/" "controllers/" "app.js" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/francis_bongiovanni/gdi-node/public/templates/" (22338 20081 0 0) "index.html" ".#index.html" "../" "./")
+
+ ("/Users/francis_bongiovanni/gdi-node/public/" (22338 1398 0 0) "templates/" "about/" "../" "./")
+
+ ("/Users/" (22279 42093 0 0) "Shared/" "mr_b/" "Guest/" "francis_bongiovanni/" ".localized" "../" "./")
+
+ ("/Users/francis_bongiovanni/" (22338 18482 0 0) "tuts/" "temp/" "remembers.txt" "Public/" "Pictures/" "opportunities/" "old.bootstrap/" "nycda-project/" "node_modules/" "Music/" "Movies/" "Library/" "jobs/" "jawnalzyer/" "Google Drive/" "gdi-node/" "emacs.d.bak/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Applications/" "\\" ".zshrc.swp" ".zshrc.pre-oh-my-zsh" ".zshrc" ".zshenv" ".zsh_history" ".zsh-update" ".zprofile" ".zpreztorc" ".zprezto/" ".zlogout" ".zlogin" ".zcompdump-FRANCIS’s MacBook Air-5.0.8" ".wifi.swp" ".wifi-today.swp" ".weechat/" ".vimrc.swp" ".vimrc" ".viminfo" ".vim/" ".vagrant.d/" ".v8flags.4.6.85.28.francis_bongiovanni.json" ".v8flags.3.28.73.francis_bongiovanni.json" ".two.rb" ".Trash/" ".tmux.conf.swp" ".tmux.conf.copy" ".tmux.conf" ".tleap.swp" ".subversion/" ".ssh/" ".spacemacs.d/" ".spacemacs" ".scripts/" ".rvmrc" ".rvm/" ".python_history" ".pylint.d/" ".psql_history" ".pry_history" ".profile" ".plugman/" ".passenger/" ".oracle_jre_usage/" ".one.rb" ".old.bash_profile" ".old/" ".oh-my-zsh/" ".nvm/" ".npm/" ".nothing.swp" ".nothin.rb.swp" ".node_repl_history" ".node_history" ".node-gyp-old/" ".node-gyp/" ".netrc" ".mkshrc" ".meteor-install-tmp/" ".local/" ".lesshst" ".keys/" ".irbrc" ".irb-history" ".heroku/" ".gradle/" ".gitconfig" ".git/" ".Genymobile/" ".gem/" ".feaiojfaew.swp" ".emacs.d.backup/" ".emacs.d/" ".emacs.bak" ".DS_Store" ".dropbox/" ".cups/" ".cpanm/" ".cordova/" ".config/" ".CFUserTextEncoding" ".cache/" ".bashrc" ".bash_wprofile" ".bash_sessions/" ".bash_profile" ".bash_history" ".babel.json" ".atom/" ".AndroidStudio1.2/" ".android/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
