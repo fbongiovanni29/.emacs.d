@@ -1,1 +1,1 @@
-("~/" "~/.emacs.d/" "~/portfolio/" "~/gdi-node/" "~/jawnalzyer/" "~/temp/react/react-tutorial/")
+("~/.emacs.d/" "~/" "~/portfolio/" "~/gdi-node/" "~/jawnalzyer/" "~/temp/react/react-tutorial/")

@@ -123,5 +123,3 @@
 (setq ido-separator "\n")
 
 (add-to-list 'load-path "~/.emacs.d/lisp")
-(require '.editorconfig)
-(editorconfig-mode 1)
